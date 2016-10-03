@@ -25,6 +25,7 @@ body #content {
    	-moz-hyphens: auto;
 	  hyphens: auto;
     line-height: 140%;
+    font-family: sans-serif;
 }
 
 table {
