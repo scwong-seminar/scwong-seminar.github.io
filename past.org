@@ -6,7 +6,7 @@
 
 |-----------------+-----------------+-----+----------------------+-----------------------+----------------------|
 |                 |                 | <3> | <20>                 | <20>                  | <20>                 |
-| Name in Chinese | Name            | Year | Research Area        | Current Position      | Graduate School      |
+| Name (Chinese) | Name            | Year | Research Area        | Current Position      | Graduate School      |
 |-----------------+-----------------+-----+----------------------+-----------------------+----------------------|
 | [[http://math.hnu.cn/index.php?option=com%255C_teachers&type=1&teacher%255C_id=116][柴劲松]]          | Jinsong Chai    | 2004 | Number Theory        | Assistant Professor, Hunan University | Ohio State University |
 | [[http://hong.web.unc.edu/][洪久族]]          | Jiuzu Hong      | 2004 | Representation Theory | Assistant Professor, University of North Carolina | Tel Aviv University  |
