@@ -4,14 +4,13 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="minimal.css" />
 
 
-#+HTML_HEAD: <style> ul#menu {    padding: 0; } ul#menu li {    display: inline; } ul#menu li a {    background-color: black;    color: white;    padding: 10px 20px;    text-decoration: none;    border-radius: 4px 4px 0 0;}ul#menu li a:hover {    background-color: orange;}</style>
+#+HTML_HEAD: <style> ul#menu {    padding: 0; } ul#menu li {    display: inline; } ul#menu li a {    background-color: black;  color: white;    padding: 10px 20px;    text-decoration: none;    border-radius: 4px 4px 0 0;}ul#menu li a:hover {    background-color: #28608D;}</style>
 #+BEGIN_HTML
 <center>
 <ul id="menu">
-  <li><a href="./index.html">HOME</a></li>
-  <li><a href="https://zh-cn.facebook.com/黄兆鎮-Shiu-chun-Wong-234954189926223/">FACEBOOK</a></li>
-  <li><a href="./wong.html">ABOUT WONG</a></li>
-  <li><a href="./past.html">PAST PARTICIPANTS</a></li>
+  <li><a href="./wong.html">ABOUT</a></li>
+  <li><a href="./archive.html">ARCHIVE</a></li>
+  <li><a href="./past.html">PARTICIPANTS</a></li>
 </ul>
 </center>
 <p>
