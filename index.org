@@ -8,7 +8,7 @@
 #+BEGIN_HTML
 <center>
 <ul id="menu">
-  <li><a href="./wong.html">ABOUT</a></li>
+  <li><a href="https://github.com/scwong-seminar/scwong-seminar.github.io">ABOUT</a></li>
   <li><a href="./archive.html">ARCHIVE</a></li>
   <li><a href="./past.html">PARTICIPANTS</a></li>
 </ul>
