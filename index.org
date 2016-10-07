@@ -10,7 +10,7 @@
 <ul id="menu">
   <li><a href="https://github.com/scwong-seminar/scwong-seminar.github.io">ABOUT</a></li>
   <li><a href="./archive.html">ARCHIVE</a></li>
-  <li><a href="./past.html">PARTICIPANTS</a></li>
+  <li><a href="./past.html">CONTACT</a></li>
 </ul>
 </center>
 <p>
