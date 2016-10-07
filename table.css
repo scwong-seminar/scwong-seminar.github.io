@@ -21,10 +21,6 @@ body #content {
     padding-right: 1em;
     padding-left: 1em;
     max-width: 100%;
-	  text-align: justify;
-	  -webkit-hyphens: auto;
-   	-moz-hyphens: auto;
-	  hyphens: auto;
     line-height: 140%;
     font-family: Helvetica, Arial, Georgia, serif;
 }
