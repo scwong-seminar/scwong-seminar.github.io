@@ -13,7 +13,7 @@
 [[./img/shiu-chun.jpg]]
 
 #+ATTR_HTML: :align middle
-   [[file:archive.org][Moments]]  \bullet  [[file:past.org][Past participants]]  \bullet  [[https://github.com/scwong-seminar/scwong-seminar.github.io][Archive]]
+   [[file:archive.org][Moments]]  \bullet  [[file:past.org][Graduates]]  \bullet [[https://github.com/scwong-seminar/old-website][Archive]]
 
 Started from early 2000s, Professor [[http://www.math.zju.edu.cn/teacher_intro.asp?userid=75][Shiu-Chun Wong]] organized several reading
 seminars on mathematics for undergraduate students at Zhejiang University. Many
