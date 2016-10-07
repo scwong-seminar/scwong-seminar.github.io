@@ -25,7 +25,7 @@ body #content {
    	-moz-hyphens: auto;
 	  hyphens: auto;
     line-height: 140%;
-    font-family: Helvetica, Arial, serif;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 img {
@@ -37,5 +37,5 @@ body .title {
     text-align: center;
 	  /* margin-left: 0px; */
 	  font-size: 20pt;
-    font-family: Helvetica, Arial, serif;
+    font-family: Helvetica, Arial, sans-serif;
 }
