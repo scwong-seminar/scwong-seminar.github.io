@@ -1,4 +1,5 @@
 #+title: Shiu-Chun Wong's Seminars
+# #+title: Seminaire Shiu-Chun Wong
 #+OPTIONS: toc:nil ':t html-postamble:nil tags:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="minimal.css" />
 
