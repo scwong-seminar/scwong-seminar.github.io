@@ -15,11 +15,9 @@
 #+ATTR_HTML: :align middle
    [[file:archive.org][Moments]]  \bullet  [[file:past.org][Past participants]]  \bullet  [[https://github.com/scwong-seminar/scwong-seminar.github.io][Archive]]
 
-#+BEGIN_QUOTE
 Started from early 2000s, Professor [[http://www.math.zju.edu.cn/teacher_intro.asp?userid=75][Shiu-Chun Wong]] organized several reading
 seminars on mathematics for undergraduate students at Zhejiang University. Many
 students were benefited from these seminars. Since Prof. Wong's retirement in
 2014, the seminars have terminated running. This site records some syllabi of
 these seminars, and the contact information of the students who had participated
 the seminars.
-#+END_QUOTE
