@@ -1,0 +1,65 @@
+* Introduction
+  :PROPERTIES:
+  :CUSTOM_ID: introduction
+  :align: center
+  :END:
+
+\\
+
+[[./index.html][Back to seminars page]]
+
+\\
+................................
+
+** For Freshmen and New-comers
+   :PROPERTIES:
+   :CUSTOM_ID: for-freshmen-and-new-comers
+   :END:
+
+Objectives of the seminar
+
+-  To get acquainted with abstract ideas and the abstract ways of
+   thinking in mathematics.
+-  To learn how to express mathematical ideas precisely and lucidly.
+-  To learn how to self-study.
+-  To learn how to communicate mathematically and exchange ideas with
+   others.
+
+NOTICE
+
+-  The seminars are mostly offered to students who want to study pure
+   mathematics in the future.
+-  Some certain seminars contains topics which serve as the mathematical
+   background of other subjects such as physics and theoretic computer
+   science. Students from different majors are welcomed.
+-  Be sure to contact the coordinator beforehand to make sure what is
+   the content and objectivity of the seminar.
+-  On average, one should spend more than 5 hours a week (besides the
+   seminar) to study the content of the seminar.
+
+On the presentations
+
+1. Each presentation should be meticulously prepared, not only by the
+speaker, but also by the audience (in order to understand the talk).
+
+2. Because of the time limit, you have to tailor the contents. Focus on
+the most central and essential ideas and leave out the secondary stuffs.
+
+3. Definitions and theorems should always be stated clearly, precisely,
+and concisely.
+
+4. Do not try to give all the details of a proof unless it involves
+useful techniques or it is very interesting. Just sketch the main line
+of thought.
+
+5. Be prepared to answer and discuss any question posed by the audience.
+
+6. For effective learning, English should be used as much as possible,
+at least for the blackboard writing.
+
+\\
+\\
+\\
+\\
+
+[[./index.html][Back to seminars page]]

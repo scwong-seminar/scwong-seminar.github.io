@@ -1,0 +1,137 @@
+#+BEGIN_HTML
+  <div class="Section1">
+#+END_HTML
+
+* Undergraduates Mathematics Seminars in ZJU
+  :PROPERTIES:
+  :CUSTOM_ID: undergraduates-mathematics-seminars-in-zju
+  :END:
+
+\\
+\\
+
+** [[introduction.html][Introduction]]
+   :PROPERTIES:
+   :CUSTOM_ID: introduction
+   :END:
+
+** [[newcomer.html][For new comers]]
+   :PROPERTIES:
+   :CUSTOM_ID: for-new-comers
+   :END:
+
+ 
+
+** [[cocktails/index.html][Cocktails]]
+   :PROPERTIES:
+   :CUSTOM_ID: cocktails
+   :END:
+
+ 
+
+*** Present Seminars in Spring and Summer 2013
+    :PROPERTIES:
+    :CUSTOM_ID: present-seminars-in-spring-and-summer-2013
+    :END:
+
+** [[present/ann13ss.pdf][Announcement of the seminars in the second
+semester of 2012-13]]
+   :PROPERTIES:
+   :CUSTOM_ID: announcement-of-the-seminars-in-the-second-semester-of-2012-13
+   :END:
+
+ 
+
+[[present/st13ss.html][Set Theory, 2013 spring/summer]]
+
+[[present/gt13ss.pdf][Galois Theory, 2013 spring/summer]]
+
+[[present/ca13ss.pdf][Complex Analysis, 2013 spring/summer]]
+
+[[present/hat13ss.pdf][Algebraic Topology, 2013 spring/summer]]
+
+[[present/bt13ss.pdf][Differential Forms in Algebraic Topology, 2013
+spring/summer]]
+
+[[present/ag13ss.html][Algebraic Geometry 2013 spring/summer]]
+
+[[present/cc13ss.pdf][Characteristic Classes, 2013 spring/summer]]
+
+*** Past seminars
+    :PROPERTIES:
+    :CUSTOM_ID: past-seminars
+    :END:
+
+-  [[past/alg12aw.html][Algebra II, 2012 autumn/winter]]
+
+-  [[past/algtop12aw.html][Algebraic Topology I, 2012 autumn/winter]]
+
+-  [[past/fa12aw.html][Fourier Analysis, 2012 autumn/winter]]
+
+-  [[past/alg12s.html][Algebra I, 2012 summer]]
+
+-  [[past/at12s.html][Algebraic Topology, 2012 summer]]
+
+-  [[past/top12s.html][Point Set Topology, 2012summer]]
+
+-  [[past/ag12.html][Algebraic Geometry, 2012 spring/summer]]
+
+-  [[past/af12.html][Automorphic Forms, 2012 spring/summer]]
+
+-  [[past/cc12.html][Characteristic Classes, 2012 spring/summer]]
+
+-  [[past/ct12.html][Category Theory, 2012 spring/summer]]
+
+-  [[past/ca12.html][Complex Analysis, 2012 spring/summer]]
+
+-  [[past/fa12.html][Functional Analysis, 2012 spring/summer]]
+
+-  [[past/gt12.html][Galois Theory, 2012 spring/summer]]
+
+-  [[past/nt12.html][Number Theory, 2012 spring/summer]]
+
+-  [[past/st12.html][Set Theory, 2012 spring/summer]]
+
+-  [[past/alg11f.html][Algebra II, 2011 fall/winter]]
+
+-  [[past/at311f.html][Algebraic Topology III, 2011 fall/winter]]
+
+-  [[past/fa11f.html][Fourier Analysis, 2011 fall/winter]]
+
+-  [[past/rca11f.html][Real and Complex Analysis, 2011 fall/winter]]
+
+-  [[past/st11.html][Set Theory I, 2011 spring/summer]]
+
+-  [[past/cat11.html][Category Theory, 2011 spring/summer]]
+
+-  [[past/sm11.html][Smooth Manifolds, 2011 spring/summer]]
+
+-  Complex Analysis, 2011 spring/summer
+
+-  Galois Theory, 2011 spring/summer
+
+-  Number Theory, 2011 spring/summer
+
+-  Algebraic Geometry, 2011 spring/summer
+
+-  •••••
+
+-  [[past/archive.html][Archive of Past Seminars]]
+
+ 
+
+** [[graduated/all.htm][Graduated Participants]]
+   :PROPERTIES:
+   :CUSTOM_ID: graduated-participants
+   :END:
+
+\\
+\\
+\\
+
+For any updates to this page, please contact WOOONDERFULWORLD AT GMAIL
+DOT COM .
+
+#+BEGIN_HTML
+  </div>
+#+END_HTML

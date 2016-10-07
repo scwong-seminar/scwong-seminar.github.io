@@ -1,0 +1,11 @@
+body #content {
+    margin: auto;
+    padding-right: 1em;
+    padding-left: 1em;
+    max-width: 44em;
+	  text-align: justify;
+	  -webkit-hyphens: auto;
+   	-moz-hyphens: auto;
+	  hyphens: auto;
+    line-height: 140%;
+}

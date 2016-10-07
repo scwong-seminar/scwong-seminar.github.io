@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2016-09-27 Tue 11:54 -->
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="viewport" content="width=device-width, initial-scale=1" />
+<title></title>
+<meta  name="generator" content="Org-mode" />
+<meta  name="author" content="Dingxin Zhang" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+Literal HTML code for export
+<div id="outline-container-orgheadline1" class="outline-2">
+<h2 id="orgheadline1">People</h2>
+<div class="outline-text-2" id="text-orgheadline1">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Name</th>
+<th scope="col" class="org-right">Year</th>
+<th scope="col" class="org-left">Interests</th>
+<th scope="col" class="org-left">Current positin</th>
+<th scope="col" class="org-left">Graduate school</th>
+<th scope="col" class="org-left">contact</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Chai, Jingsong</td>
+<td class="org-right">2004</td>
+<td class="org-left">L-function</td>
+<td class="org-left">Hunan University</td>
+<td class="org-left">Ohio State University</td>
+<td class="org-left"><code>chai AT math DOT ohio-state DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Hong, Jiuzu</td>
+<td class="org-right">2004</td>
+<td class="org-left">Representation Theory</td>
+<td class="org-left">Postdoc, Yale University</td>
+<td class="org-left">Tel Aviv University</td>
+<td class="org-left"><code>jiuzhuhong AT post DOT tau DOT ac DOT il</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Hua, Zheng</td>
+<td class="org-right">2004</td>
+<td class="org-left">Algebraic Geometry</td>
+<td class="org-left">Postdoctoral Fellow, The Chinese University of Hongkong</td>
+<td class="org-left">University of Wisconsin</td>
+<td class="org-left"><code>hua AT math DOT ubc DOT ca</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Ding, Yichuan</td>
+<td class="org-right">2005</td>
+<td class="org-left">Operational Research</td>
+<td class="org-left">Assistant Professor, Sauder School of Business, UBC</td>
+<td class="org-left">Stanford</td>
+<td class="org-left"><code>y7ding AT sttanford DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Shi, Ronggang</td>
+<td class="org-right">2005</td>
+<td class="org-left">Ergodic Theory, Number Theory</td>
+<td class="org-left">Assistant Professor, Xiamen University</td>
+<td class="org-left">Ohin State University</td>
+<td class="org-left"><code>ronggang AT xmu DOT edu DOT cn</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Sun, Shenghao</td>
+<td class="org-right">2005</td>
+<td class="org-left">Arithmetic Algebraic Geometry</td>
+<td class="org-left">Lecturer, CMS Tsinghua University</td>
+<td class="org-left">UC Berkeley</td>
+<td class="org-left"><code>shenghao AT math DOT berkeley DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Wu, Enxin</td>
+<td class="org-right">2005</td>
+<td class="org-left">Algebraic Topology</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">University of Western Ontario</td>
+<td class="org-left"><code>ewu22 AT uwo DOT ca</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Xiao, Xiao</td>
+<td class="org-right">2005</td>
+<td class="org-left">Arithmetic Algebraic Geometry</td>
+<td class="org-left">Assistant Professor, Utica College</td>
+<td class="org-left">Binghamton University</td>
+<td class="org-left"><code>xiao AT math DOT binghamton DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Xie, Zhizhang</td>
+<td class="org-right">2005</td>
+<td class="org-left">Noncommutative Geometry</td>
+<td class="org-left">Postdoc, Vanderbilt University</td>
+<td class="org-left">Ohio State University</td>
+<td class="org-left"><code>xiezz AT math DOT ohio-state DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Yang, Tian</td>
+<td class="org-right">2005</td>
+<td class="org-left">Topology and Geometry</td>
+<td class="org-left">Szego Assistant Professor, Stanford University</td>
+<td class="org-left">Rutgers</td>
+<td class="org-left"><code>tianyang AT math DOT rutgers DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Zhong, Changlong</td>
+<td class="org-right">2005</td>
+<td class="org-left">Algebraic K-theory</td>
+<td class="org-left">Postdoc, Ottawa University</td>
+<td class="org-left">University of Southern California</td>
+<td class="org-left"><code>czhong AT usc DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Chen, Haimiao</td>
+<td class="org-right">2006</td>
+<td class="org-left">Algebraic Topology</td>
+<td class="org-left">Postdoc, Peking University</td>
+<td class="org-left">Institute of Math, China</td>
+<td class="org-left"><code>chen_haimiao AT 163 DOT com=</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Deng, Shaojie</td>
+<td class="org-right">2006</td>
+<td class="org-left">Statistics</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Stanford</td>
+<td class="org-left"><code>alexdeng AT stanford DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Ding, Ding</td>
+<td class="org-right">2006</td>
+<td class="org-left">Arithmetic Algebraic Geometry</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Binghamton University</td>
+<td class="org-left"><code>ding AT math DOT binghamton DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Shen, Yefeng</td>
+<td class="org-right">2006</td>
+<td class="org-left">Geometry and Topology</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">University of Michigan</td>
+<td class="org-left"><code>yfschen AT umich DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Wang, Kun</td>
+<td class="org-right">2006</td>
+<td class="org-left">Geometry, Topology, Physics</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Ohio State University</td>
+<td class="org-left"><code>kwang AT math DOT ohio-state DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Xu, Xingbo</td>
+<td class="org-right">2006</td>
+<td class="org-left">Operation Theory</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Columbia University</td>
+<td class="org-left"><code>xx2126 AT columbia DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Yin, Qian</td>
+<td class="org-right">2006</td>
+<td class="org-left">Geometric Analysis</td>
+<td class="org-left">Postdoc, University of Chicago</td>
+<td class="org-left">University of Michigan</td>
+<td class="org-left"><code>qyin AT umich DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Yu, Xun</td>
+<td class="org-right">2006</td>
+<td class="org-left">Algebraic Geometry</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Ohio State University</td>
+<td class="org-left"><code>yu AT math DOT ohio-state DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Zhu, Zhixian</td>
+<td class="org-right">2006</td>
+<td class="org-left">Algebraic Geometry</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">University of Michigan</td>
+<td class="org-left"><code>zhixian AT umich DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Bi, Shuchao</td>
+<td class="org-right">2007</td>
+<td class="org-left">Convex Algebraic Geometry</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">UC Berkeley</td>
+<td class="org-left"><code>shuchao AT math DOT berkeley DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Chen, Dechang</td>
+<td class="org-right">2007</td>
+<td class="org-left">Differential Geometry</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">U Mass Amherst</td>
+<td class="org-left"><code>dchen AT math DOT umass DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Chen, Haojie</td>
+<td class="org-right">2007</td>
+<td class="org-left">Symplectic Geometry</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">UMN</td>
+<td class="org-left"><code>chen1512 AT math DOT umn DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Deng, Wei</td>
+<td class="org-right">2007</td>
+<td class="org-left">Algebraic Geometry</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Washingtong University in St. Louis</td>
+<td class="org-left"><code>wdeng AT math DOT wustl DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Huang, Yang</td>
+<td class="org-right">2007</td>
+<td class="org-left">Contact Geometry</td>
+<td class="org-left">Research Scientist, Max Planck Institute for Mathematics</td>
+<td class="org-left">USC</td>
+<td class="org-left"><code>huangyan AT usc DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Li, Na</td>
+<td class="org-right">2007</td>
+<td class="org-left">Control and Dynamical Systems</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Caltech</td>
+<td class="org-left"><code>nali AT caltech DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Liang, Hao</td>
+<td class="org-right">2007</td>
+<td class="org-left">Geometric Group Theory</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">UIC</td>
+<td class="org-left"><code>hliang8 AT uic DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Nie, Sian</td>
+<td class="org-right">2007</td>
+<td class="org-left">Algebraic Groups, Quantum Groups</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Institute of Math, China</td>
+<td class="org-left"><code>niesian AT gmail DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Peng, Wei</td>
+<td class="org-right">2007</td>
+<td class="org-left">Computer Networks and Security</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">IUPUI</td>
+<td class="org-left"><code>pengw AT iupui DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Sun, Jingzhou</td>
+<td class="org-right">2007</td>
+<td class="org-left">Complex Geometry</td>
+<td class="org-left">Simons Instructor, Stony Brook University</td>
+<td class="org-left">Johns Hopkins University</td>
+<td class="org-left"><code>jsun17 AT jhn DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Xu, Yifan</td>
+<td class="org-right">2007</td>
+<td class="org-left">Statistics</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Binghamton University</td>
+<td class="org-left"><code>yxu AT math DOT binghamton DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Zhou, Xiaochen</td>
+<td class="org-right">2007</td>
+<td class="org-left">Differential Geometry</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">U Penn</td>
+<td class="org-left"><code>zx AT sas DOT upenn DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Zhu, Yi</td>
+<td class="org-right">2007</td>
+<td class="org-left">Algebraic Geometry</td>
+<td class="org-left">Postdoc, University of Utah</td>
+<td class="org-left">Stony Brook University</td>
+<td class="org-left"><code>math DOT zhu AT gmail DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Pan, Xuanyu</td>
+<td class="org-right">2008</td>
+<td class="org-left">Algebraic Geometry</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Columbia University</td>
+<td class="org-left"><code>pan AT math DOT columbia DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Wang, Qingyun</td>
+<td class="org-right">2008</td>
+<td class="org-left">Operator Algebra</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Washington University in St. Louis</td>
+<td class="org-left"><code>wangqy AT math DOT wustl DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Wang, Lihan</td>
+<td class="org-right">2008</td>
+<td class="org-left">Differential Geometry</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">UC Irvin</td>
+<td class="org-left"><code>lihanw AT uci DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Zhang, Qing</td>
+<td class="org-right">2008</td>
+<td class="org-left">Number Theory</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Ohio State University</td>
+<td class="org-left"><code>r9zhangyu AT gmail DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Bao, Hongwei</td>
+<td class="org-right">2009</td>
+<td class="org-left">Dynamical Systems</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Institute of Math, China</td>
+<td class="org-left"><code>nbbhw6174 AT sina DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Chen, Liwei</td>
+<td class="org-right">2009</td>
+<td class="org-left">Analysis</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Washington University in St. Louis</td>
+<td class="org-left"><code>chenlw AT math DOT wustl DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Sun, Hongtan</td>
+<td class="org-right">2009</td>
+<td class="org-left">Algebraic Geometry</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Johns Hopkins University</td>
+<td class="org-left"><code>htsun AT math DOT jhu DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Tian, Hongfei</td>
+<td class="org-right">2009</td>
+<td class="org-left">Algebra</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">UIUC</td>
+<td class="org-left"><code>bzsy911 AT gmail DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Wang, Gaohong</td>
+<td class="org-right">2009</td>
+<td class="org-left">Algebraic Topology</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">University of Western Ontario</td>
+<td class="org-left"><code>gwang72 AT uwo DOT ca</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Wang, Kangkang</td>
+<td class="org-right">2009</td>
+<td class="org-left">Algebraic Geometry</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Duke</td>
+<td class="org-left"><code>kkshin DOT wang AT gmail DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Xia, Jie</td>
+<td class="org-right">2009</td>
+<td class="org-left">Algebraic Geometry</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Columbia University</td>
+<td class="org-left"><code>xiajie AT math DOT columbia DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Xiao, Lechao</td>
+<td class="org-right">2009</td>
+<td class="org-left">Harmonic Analysis</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">UIUC</td>
+<td class="org-left"><code>xiao14 AT illinois DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Xu, Hangjun</td>
+<td class="org-right">2009</td>
+<td class="org-left">Differential Geometry</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Duke</td>
+<td class="org-left"><code>hangjun AT math DOT duke DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Yang, Yaping</td>
+<td class="org-right">2009</td>
+<td class="org-left">Representation Theory</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Northeastern University</td>
+<td class="org-left"><code>yang DOT yap AT husky DOT neu DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Zhang, Jingjing</td>
+<td class="org-right">2009</td>
+<td class="org-left">Algebraic Geometry</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Johns Hopkins University</td>
+<td class="org-left"><code>zhangjingjing DOT sara AT gmail DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Zhang, Zheng</td>
+<td class="org-right">2009</td>
+<td class="org-left">Algebraic Geometry</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Stony Brooks University</td>
+<td class="org-left"><code>zzhang AT math DOT sunysb DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Zhao, Gufang</td>
+<td class="org-right">2009</td>
+<td class="org-left">Representation Theory</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Northeastern University</td>
+<td class="org-left"><code>gufangzhao AT gmail DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Cheng, Yongxing</td>
+<td class="org-right">2010</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Northeastern University</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Lin, Yinbang</td>
+<td class="org-right">2010</td>
+<td class="org-left">Moduli of Vector Bundles</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Northeastern University</td>
+<td class="org-left"><code>yinbang DOT lin AT gmail DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Wang, Tong</td>
+<td class="org-right">2010</td>
+<td class="org-left">Logic</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Amsterdam University</td>
+<td class="org-left"><code>tongwang01 AT gmail DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Xue, Ke</td>
+<td class="org-right">2010</td>
+<td class="org-left">Algebraic Geometry</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">University of Maryland College Park</td>
+<td class="org-left"><code>xueke AT umd DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Ye, Zhilin</td>
+<td class="org-right">2010</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Ohio State University</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Zheng, Xudong</td>
+<td class="org-right">2010</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">UIC</td>
+<td class="org-left"><code>xzheng20 AT uic DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Dong,Dong</td>
+<td class="org-right">2011</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Michigan State University; UIUC</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Du, Xiumin</td>
+<td class="org-right">2011</td>
+<td class="org-left">Algebraic Geometry</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">UIUC</td>
+<td class="org-left"><code>dxmyyd AT 163 DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">He, Chen</td>
+<td class="org-right">2011</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Northeastern University</td>
+<td class="org-left"><code>kudos DOT he AT qq DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Li, Shuai</td>
+<td class="org-right">2011</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Institute of Math, China</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Wu, Ruijun</td>
+<td class="org-right">2011</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Institute of Math, China</td>
+<td class="org-left"><code>wuruijun2 AT 126 DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Xia, Bingyu</td>
+<td class="org-right">2011</td>
+<td class="org-left">Number Theory</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Ohio State University</td>
+<td class="org-left"><code>xiabingyu AT gmail DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Xie, Yi</td>
+<td class="org-right">2011</td>
+<td class="org-left">Low Dimensional Topology</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Harvard University</td>
+<td class="org-left"><code>elohimzh AT 163 DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Xu, Xiaoqian</td>
+<td class="org-right">2011</td>
+<td class="org-left">Analysis</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">University of Wisconsin</td>
+<td class="org-left"><code>xxu@math.cmu.edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Zhang, Dingxin</td>
+<td class="org-right">2011</td>
+<td class="org-left">Algebraic Geometry</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Stony Brook University</td>
+<td class="org-left"><code>dzhang AT math DOT sunysb DOT edu</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Zhang, Zhuohui</td>
+<td class="org-right">2011</td>
+<td class="org-left">Geometry and Topology</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Rutgers University</td>
+<td class="org-left"><code>tyotakuki AT 126 DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Long, Yang</td>
+<td class="org-right">2011</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Institute of Math, China</td>
+<td class="org-left"><code>longyangok AT gmail DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Cheng, Gong</td>
+<td class="org-right">2012</td>
+<td class="org-left">Geometry, Analysis</td>
+<td class="org-left">　</td>
+<td class="org-left">Washington University in St. Louis</td>
+<td class="org-left"><code>succperado AT gmail DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Fan, Honglu</td>
+<td class="org-right">2012</td>
+<td class="org-left">Algebraic Geometry</td>
+<td class="org-left">　</td>
+<td class="org-left">University of Utah</td>
+<td class="org-left"><code>lethe.ar AT gmail DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Hou, Qi</td>
+<td class="org-right">2012</td>
+<td class="org-left">PDE</td>
+<td class="org-left">　</td>
+<td class="org-left">Cornell University</td>
+<td class="org-left"><code>zdhq2008 AT yeah DOT net</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Hu, Xuntao</td>
+<td class="org-right">2012</td>
+<td class="org-left">Differential Geometry</td>
+<td class="org-left">　</td>
+<td class="org-left">Stony Brook University</td>
+<td class="org-left"><code>bryanhu AT zju DOT edu DOT cn</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Hu,Yuhao</td>
+<td class="org-right">2012</td>
+<td class="org-left">　</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Duke</td>
+<td class="org-left"><code>501311951 AT qq DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Liu, Bochen</td>
+<td class="org-right">2012</td>
+<td class="org-left">Harmonic Analysis</td>
+<td class="org-left">　</td>
+<td class="org-left">Rochester University</td>
+<td class="org-left"><code>bochen DOT liu1989 AT gmail DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Wang, Shengwen</td>
+<td class="org-right">2012</td>
+<td class="org-left">Complex Geometry</td>
+<td class="org-left">　</td>
+<td class="org-left">Johns Hopkins University</td>
+<td class="org-left"><code>wsw513www AT yahoo DOT com DOT cn</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Wang, Xiyuan</td>
+<td class="org-right">2012</td>
+<td class="org-left">Number Theory    　</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">University of Regina</td>
+<td class="org-left"><code>wangxiyuan928 AT yahoo DOT cn</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Wu, Wei</td>
+<td class="org-right">2012</td>
+<td class="org-left">Mathematical Logic</td>
+<td class="org-left">　</td>
+<td class="org-left">Cornell University</td>
+<td class="org-left"><code>wwu.arioso AT gmail DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Xie, Fei</td>
+<td class="org-right">2012</td>
+<td class="org-left">Algebra</td>
+<td class="org-left">　</td>
+<td class="org-left">UCLA</td>
+<td class="org-left"><code>feixieliz AT gmail DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Xu, Chao</td>
+<td class="org-right">2012</td>
+<td class="org-left">Geometry and Topology</td>
+<td class="org-left">　</td>
+<td class="org-left">Ohio State University</td>
+<td class="org-left"><code>xuchao0753 AT gmail DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Zhang, Xiping</td>
+<td class="org-right">2012</td>
+<td class="org-left">Arithmetic Algebraic Geometry</td>
+<td class="org-left">　</td>
+<td class="org-left">Florida State University</td>
+<td class="org-left"><code>zxp19901116 AT zju DOT edu DOT cn</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Zhao, Huijun</td>
+<td class="org-right">2012</td>
+<td class="org-left">Representation Theory</td>
+<td class="org-left">　</td>
+<td class="org-left">Northeastern University</td>
+<td class="org-left"><code>zhaohj518 AT 163 DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Zhu, Yaoguang</td>
+<td class="org-right">2012</td>
+<td class="org-left">Algebra</td>
+<td class="org-left">　</td>
+<td class="org-left">University of Texas at Austin</td>
+<td class="org-left"><code>sd052_mercury AT 126 DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Zeng, Mingcong</td>
+<td class="org-right">2012</td>
+<td class="org-left">Algebraic Topology</td>
+<td class="org-left">　</td>
+<td class="org-left">University of Western Ontario</td>
+<td class="org-left"><code>zengmingcong AT hotmail DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Luo, Xiyang</td>
+<td class="org-right">2013</td>
+<td class="org-left">Geometry</td>
+<td class="org-left">　</td>
+<td class="org-left">UCLA</td>
+<td class="org-left"><code>xylmath AT gmail DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Shen, Qibin</td>
+<td class="org-right">2013</td>
+<td class="org-left">Analytic Number Theory    　</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Rochester University</td>
+<td class="org-left"><code>sqb19901010 AT qq DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Xie, Ying</td>
+<td class="org-right">2013</td>
+<td class="org-left">Complex Geometry    　</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">MSC, Qinghua University(temp. visit)</td>
+<td class="org-left"><code>mst09123 AT gmail DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Ye, Rongqing</td>
+<td class="org-right">2013</td>
+<td class="org-left">Repn. Theory, Lie groups and Lie alge</td>
+<td class="org-left">　</td>
+<td class="org-left">Ohio State University</td>
+<td class="org-left"><code>thomasyrq AT gmail DOT com</code></td>
+</tr>
+
+<tr>
+<td class="org-left">Zhou, Yang</td>
+<td class="org-right">2013</td>
+<td class="org-left">Algebraic Geometry</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Stanford University</td>
+<td class="org-left"><code>wooonderfulworld AT gmail DOT com</code></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,94 @@
+body {
+	background-color: LightGoldenRodYellow;
+}
+
+h1 {
+	font-size: 2em;
+	font-weight: bold;
+	line-height: 1;
+	text-align: center;
+	font-family:"arial";
+	margin-top: 1em;
+}
+
+h2 {
+	color: Darkblue;
+	font-size: 1.3em;
+	font-weight: normal;
+	font-family: Georgia, Times, serif;
+	text-align: left;
+	margin-top: 1em;
+}
+
+h3 {
+	color: Darkred;
+	font-size: 1.2em;
+	font-weight: normal;
+	font-family: Georgia, Times, serif;
+	text-align: left;
+	margin-top: 1em;
+}
+
+p {
+	font-size: 1.1em;
+	line-height: 1.2em;
+	text-align: left;
+	font-family:"arial";
+	margin-top: 1em;
+	margin-bottom: 0.5em;
+	width: 40em;
+}
+
+li {
+	font-size: 1em;
+	line-height: 1.3em;
+	text-align: left;
+	font-family:"arial";
+	margin-top: 0 em;
+	margin-bottom: 0.2 em;
+	width: 40em;
+}
+
+.shortp {
+	font-size: 1em;
+	line-height: 1em;
+	text-align: left;
+	font-family:"arial";
+	margin-top: 1em;
+	width: 6em;
+	color: Brown;
+}
+
+.leftspace {
+	padding-left: 2em
+}
+
+.underlineh2{
+	border-bottom-color: #ccc;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+.middlep{
+	font-size: 1em;
+	line-height: 1em;
+	text-align: left;
+	font-family:"arial";
+	margin-top: 1em;
+	width: 490px;
+}
+
+.maindiv p{
+	font-size: 1.3em;
+	line-height: 1.3em;
+	text-align: left;
+	font-family:"arial";
+	width: 750px;
+	margin-top: 0.5em;
+	margin-bottom: 1em;
+}
+
+a:link {color: Blue; text-decoration: none}              
+a:visited {color: Blue; text-decoration: none}           
+a:hover {color: Brown; text-decoration: none}       
+a:active {color: Blue; text-decoration: none}            
