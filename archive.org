@@ -2,4 +2,4 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="minimal.css" />
 
 This is still under construction. Please contribute! Please share your idea with
-the [[https://sites.google.com/site/yizhuhomepage/][moderator]].
+the [[mailto:mathzhu@gmail.com][moderator]].

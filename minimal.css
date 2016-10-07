@@ -20,12 +20,12 @@ body #content {
     padding-right: 1em;
     padding-left: 1em;
     max-width: 44em;
-	  /* text-align: justify; */
-	  /* -webkit-hyphens: auto; */
-   	/* -moz-hyphens: auto; */
+	  text-align: justify;
+	  -webkit-hyphens: auto;
+   	-moz-hyphens: auto;
 	  hyphens: auto;
     line-height: 140%;
-    font-family: Helvetica, Arial, Georgia, serif;
+    font-family: Helvetica, Arial, serif;
 }
 
 img {
@@ -34,9 +34,8 @@ img {
 
 body .title {
     padding-top: 1.2em;
-    padding-bottom: 1.2em;
     text-align: center;
 	  /* margin-left: 0px; */
 	  font-size: 20pt;
-    font-family: Futura, Helvetica, Arial, Georgia, serif;
+    font-family: Helvetica, Arial, serif;
 }
