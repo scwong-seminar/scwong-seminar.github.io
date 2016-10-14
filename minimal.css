@@ -24,10 +24,10 @@ body #content {
     padding-right: 1em;
     padding-left: 1em;
     max-width: 44em;
-	  text-align: justify;
-	  -webkit-hyphens: auto;
-   	-moz-hyphens: auto;
-	  hyphens: auto;
+	  /* text-align: justify; */
+	  /* -webkit-hyphens: auto; */
+   	/* -moz-hyphens: auto; */
+	  /* hyphens: auto; */
     line-height: 140%;
     font-family: Helvetica, Arial, sans-serif;
 }
