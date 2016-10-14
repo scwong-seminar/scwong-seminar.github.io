@@ -12,14 +12,14 @@
 [[file:moments/wang-tong.org][...Read More...]]
 
 
-* 黄老师和他的讨论班
+* 记黄老师
 
 #+include: ./moments/xia-jie.org :only-contents t :lines "5-14"
 
 [[file:moments/xia-jie.org][...Read More...]]
 
 
-* 记黄老师
+* 老黄
 
 #+include: ./moments/panxuanyu.org :only-contents t :lines "5-12"
 
