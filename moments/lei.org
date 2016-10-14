@@ -2,6 +2,8 @@
 #+OPTIONS: toc:nil ':t html-postamble:nil tags:nil num:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../minimal.css" />
 
+转载: 文／佚名
+
 黄兆镇教授是我的微积分老师，本应该尊称他为黄老，但还是叫老黄感觉亲切一些。
 
 老黄是一个把子集读作“几值”，把极值读作"子集"的人。在今天的浙大看来其人对学生的要求算得上十分严厉。上课的第一天，他说八点钟之前作业要放在讲台上，否则一律不收，上课不允许迟到早退，不允许讲话交谈，不允许手机响，“否则我就扔出去了”。
