@@ -19,6 +19,15 @@ h1 {
     font-weight: normal;
 }
 
+h2 {
+    font-weight: normal;
+	  font-size:1.45em;
+	  line-height:16px;
+	  padding:10px 0 10px 0;
+	  color: black;
+	  border-bottom: 1px solid #ddd;
+}
+
 body #content {
     margin: auto;
     padding-right: 1em;
