@@ -13,7 +13,7 @@
 | [[http://hkumath.hku.hk/~huazheng/][华  诤]]         | Hua, Zheng       | 2004 | Algebraic Geometry   | Assistant Professor, University of Hong Kong | University of Wisconsin-Madison |
 | [[https://www.linkedin.com/in/dan-lu-4709b422?authType=NAME_SEARCH&authToken=2cSv&locale=en_US&srchid=5283429621475340068734&srchindex=1&srchtotal=2&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%253A5283429621475340068734%252CVSRPtargetId%253A80110740%252CVSRPcmpt%253Aprimary%252CVSRPnm%253Atrue%252CauthType%253ANAME_SEARCH][卢  丹]]         | Lu, Dan          | 2004 | Representation Theory |                       | Yale University      |
 | [[http://www.mcm.ac.cn/faculty/yangxiaokui/201509/t20150909_307008.html][杨晓奎]]         | Yang, Xiaokui    | 2004 | Differential Geometry | Professor, Chinese Academy of Science | UCLA                 |
-| [[https://www.linkedin.com/in/xiaotian-zhu-b706b723][朱笑天]]         | XiaoZhu, tian    | 2004 | Statistics           | AbbVie                | Penn State University |
+| [[https://www.linkedin.com/in/xiaotian-zhu-b706b723][朱笑天]]         | Zhu, Xiaotian    | 2004 | Statistics           | AbbVie                | Penn State University |
 | [[http://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Ding_Yichuan][丁弋川]]         | Ding, Yichuan    | 2005 | Operational Research | Assistant Professor, Sauder School of Business, UBC | Stanford             |
 | [[http://121.192.180.131:808/display.aspx?tid=86][石荣刚]]         | Shi, Ronggang    | 2005 | Dynamical System     | Associate Professor, Xiamen University | Ohin State University |
 | [[http://ymsc.tsinghua.edu.cn/shsun/index.html][孙晟昊]]         | Sun, Shenghao    | 2005 | Algebraic Geometry   | Associate Professor, YMSC Tsinghua University | UC Berkeley          |
