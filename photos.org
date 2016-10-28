@@ -1,0 +1,16 @@
+#+options: html-postamble:nil
+
+#+ATTR_HTML: :align middle :width 400
+[[./wongsphotos/wong2.jpg]]
+
+#+ATTR_HTML: :align middle
+[[./wongsphotos/Wong3.png]]
+
+#+ATTR_HTML: :align middle :width 400
+[[./wongsphotos/456737_10150566396876791_1066136003_o.jpg]]
+
+#+ATTR_HTML: :align middle :width 400
+[[./wongsphotos/463014_10150606923706791_1878322645_o.jpg]]
+
+#+ATTR_HTML: :align middle :width 400
+[[./wongsphotos/Wong1.jpg]]
