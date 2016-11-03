@@ -1,4 +1,24 @@
-#+options: html-postamble:nil
+#+title: A Brief Vitum of Professor Shiu-Chun Wong
+#+options: html-postamble:nil toc:nil num:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="minimal.css" />
+
+* Education
+- 1975. B.A., St. John's College.
+- 1985. /Diplom-Mathematiker/, Heidelberg.
+- 1991. Ph.D., University of Rochester (advisor: Frederick Ronald Cohen).
+
+* Positions
+
+- 1992. Postdoc, University of Toronto.
+- 1993. Visiting Assistant Professor, University of Alberta.
+- 1993. Associate Professor, Zhejiang University.
+
+* Research interests
+
+Algebraic topology. Category theory
+
+#+ATTR_HTML: :align middle :width 400
+[[./wongsphotos/young.jpg]]
 
 #+ATTR_HTML: :align middle :width 400
 [[./wongsphotos/wong2.jpg]]
@@ -8,9 +28,6 @@
 
 #+ATTR_HTML: :align middle :width 400
 [[./wongsphotos/456737_10150566396876791_1066136003_o.jpg]]
-
-#+ATTR_HTML: :align middle :width 400
-[[./wongsphotos/463014_10150606923706791_1878322645_o.jpg]]
 
 #+ATTR_HTML: :align middle :width 400
 [[./wongsphotos/Wong1.jpg]]
