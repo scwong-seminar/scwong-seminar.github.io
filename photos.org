@@ -2,6 +2,8 @@
 #+options: html-postamble:nil toc:nil num:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="minimal.css" />
 
+
+
 * Education
 - 1975. B.A., St. John's College.
 - 1985. /Diplom-Mathematiker/, Heidelberg.
@@ -17,14 +19,16 @@
 
 Algebraic topology. Category theory
 
-#+ATTR_HTML: :align middle :width 400
-[[./wongsphotos/young.jpg]]
 
 #+ATTR_HTML: :align middle :width 400
 [[./wongsphotos/wong2.jpg]]
 
 #+ATTR_HTML: :align middle
 [[./wongsphotos/Wong3.png]]
+
+
+#+ATTR_HTML: :align middle :width 400
+[[./wongsphotos/young-clip.png]]
 
 #+ATTR_HTML: :align middle :width 400
 [[./wongsphotos/456737_10150566396876791_1066136003_o.jpg]]
