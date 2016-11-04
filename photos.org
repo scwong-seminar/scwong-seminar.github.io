@@ -1,4 +1,4 @@
-#+title: A Brief Vitum of Professor Shiu-Chun Wong
+#+title: /Curricula Vitae/ of Professor Shiu-Chun Wong
 #+options: html-postamble:nil toc:nil num:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="minimal.css" />
 
