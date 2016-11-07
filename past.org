@@ -69,7 +69,7 @@
 | [[http://math.jhu.edu/~xzheng/][郑旭东]]         | Zheng, Xudong    | 2010 | Algebraic Geometry   | J.J. Sylvester Assistant Professor, Johns Hopkins University | UIC                  |
 | [[https://sites.google.com/site/dongdongmath/][董 栋]]          | Dong, Dong       | 2011 | Harmonic Analysis    |                       | Michigan State University; UIUC |
 | [[https://sites.google.com/site/xiumindu/][杜秀敏]]         | Du, Xiumin       | 2011 | Harmonic Analysis    |                       | UIUC                 |
-| [[http://www.math.ucla.edu/~hwgao/][高洪伟]]         | Gao, Hongwei     | 2011 | Partial Differential Equations | Assistant Adjunct Professor, UCLA | UC Irvin             |
+| [[http://www.math.ucla.edu/~hwgao/][高洪伟]]         | Gao, Hongwei     | 2011 | Partial Differential Equations | Assistant Adjunct Professor, UCLA | UC Irvine            |
 | 贺 琛          | He, Chen         | 2011 | Geometry and Topology |                       | Northeastern University |
 | 李 帅          | Li, Shuai        | 2011 | Functional Analysis  |                       | Institute of Math, China |
 | [[https://math.osu.edu/people/wang.3003][王亦龙]]         | Wang, Yilong     | 2011 | Geometry and Topology |                       | The Ohio State University |
