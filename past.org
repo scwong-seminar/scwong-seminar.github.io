@@ -104,5 +104,6 @@
 | 吕人杰         | Lü, Renjie       | 2014 | Algebraic Geometry   |                       | University of Amsterdam |
 | [[http://www.math.columbia.edu/~shanbei/][李时璋]]         | Li, Shizhang     | 2014 | Algebraic Geometry   |                       | Columbia University  |
 | 罗之麟         | Luo, Zhilin      | 2015 | Number Theory        |                       | University of Minnesota |
+| 陈俊杰         | Chen, Junjie     | 2015 | Arithmetic Geometry  |                       | Ohio State University |
 | 林中一攀       | Lin, Zhongyipan  | 2016 | Number Theory        |                       | Johns Hopkins University |
 |----------------+------------------+-----+----------------------+-----------------------+----------------------|
