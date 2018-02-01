@@ -42,16 +42,16 @@
 | [[http://voidstar.info/][彭 巍]]          | Peng, Wei        | 2007 | Computer Networks and Security | Intel                 | IUPUI                |
 | [[https://math.stu.edu.cn/RYZC_Detail.aspx?id=116][孙京洲]]         | Sun, Jungzhou    | 2007 | Complex Geometry     | Associate Professor, Shantou University | Johns Hopkins University |
 | [[https://www.linkedin.com/in/yifan-%2522ethan%2522-xu-9796315][徐轶帆]]         | Xu, Yifan        | 2007 | Statistics           | IBM                   | Binghamton University |
-| [[https://www.linkedin.com/in/cris-xiaochen-zhou-57300a40][周晓晨]]         | Zhou, Xiaochen   | 2007 | Differential Geometry | Goldman Sachs         | U Penn               |
-| [[https://sites.google.com/site/yizhuhomepage/][朱 一]]          | Zhu, Yi          | 2007 | Algebraic Geometry   | Postdoc, University of Waterloo | Stony Brook University |
+| [[https://www.linkedin.com/in/cris-xiaochen-zhou-57300a40][周晓晨]]         | Zhou, Xiaochen   | 2007 | Differential Geometry | Software Engineer, Google         | U Penn               |
+| [[https://sites.google.com/site/yizhuhomepage/][朱 一]]          | Zhu, Yi          | 2007 | Algebraic Geometry   |PNC | Stony Brook University |
 | [[https://sites.google.com/site/xuanyupan1985/][潘宣余]]         | Pan, Xuanyu      | 2008 | Algebraic Geometry   | Postdoc, Max Plank Institute | Columbia University  |
 | [[https://sites.google.com/site/wangqymath/][王青云]]         | Wang, Qingyun    | 2008 | Operator Algebra     | Postdoc, University of Oregon | Washington University in St. Louis |
 | [[http://mathdept.ucr.edu/faculty/lihanw.html][王丽涵]]         | Wang, Lihan      | 2008 | Differential Geometry | Visiting Assistant Professor, UC Riverside | UC Irvin             |
 | [[https://people.math.osu.edu/zhang.1649/homepage.html][张 庆]]          | Zhang, Qing      | 2008 | Number Theory        | Postdoc, Ohio State University | Ohio State University |
 | [[http://msc.tsinghua.edu.cn/content.asp?channel=2&classid=12&id=2728][包宏伟]]         | Bao, Hongwei     | 2009 | Dynamical Systems    | Postdoc, Yau Mathematical Science Center | Institute of Math, China |
 | [[https://math.osu.edu/people/chen.1690][陈立玮]]         | Chen, Liwei      | 2009 | Complex Analysis     | Postdoc, The Ohio State University | Washington University in St. Louis |
-| [[http://homepages.rpi.edu/~sunh6/][孙宏探]]         | Sun, Hongtan     | 2009 | Algebraic Geometry   | Rensselaer Polytechnic Institute, Troy, NY | Johns Hopkins University |
-| [[http://www.math.illinois.edu/~tian9/][田洪飞]]         | Tian, Hongfei    | 2009 | Representation Theory |                       | UIUC                 |
+| [[http://homepages.rpi.edu/~sunh6/][孙宏探]]         | Sun, Hongtan     | 2009 | Algebraic Geometry   | IBM T.J. Watson Research Center	|Rensselaer Polytechnic Institute, Troy, NY / Johns Hopkins University |
+| [[http://www.math.illinois.edu/~tian9/][田洪飞]]         | Tian, Hongfei    | 2009 | Representation Theory | 	Data Scientist at EY                      | UIUC                 |
 | [[http://www.math.uwo.ca/index.php/profile/63/][王高翃]]         | Wang, Gaohong    | 2009 | Algebraic Topology   |                       | University of Western Ontario |
 | [[https://www.linkedin.com/in/kangkang21][王抗抗]]         | Wang, Kangkang   | 2009 | Algebraic Geometry   | Software Engineer at Google | Duke                 |
 | [[http://www.math.columbia.edu/~xiajie/][夏 劼]]          | Xia, Jie         | 2009 | Algebraic Geometry   | Quant, Morgan Stanley | Columbia University  |
@@ -67,8 +67,8 @@
 | 薛 珂          | Xue, Ke          | 2010 | Algebraic Geometry   |                       | University of Maryland College Park |
 | 叶之林         | Ye, Zhilin       | 2010 | Number Theory        |                       | Ohio State University |
 | [[http://math.jhu.edu/~xzheng/][郑旭东]]         | Zheng, Xudong    | 2010 | Algebraic Geometry   | J.J. Sylvester Assistant Professor, Johns Hopkins University | UIC                  |
-| [[https://sites.google.com/site/dongdongmath/][董 栋]]          | Dong, Dong       | 2011 | Harmonic Analysis    |                       | Michigan State University; UIUC |
-| [[https://sites.google.com/site/xiumindu/][杜秀敏]]         | Du, Xiumin       | 2011 | Harmonic Analysis    |                       | UIUC                 |
+| [[https://sites.google.com/site/dongdongmath/][董 栋]]          | Dong, Dong       | 2011 |Harmonic Analysis and Number theory    |                       | Michigan State University; UIUC |
+| [[https://sites.google.com/site/xiumindu/][杜秀敏]]         | Du, Xiumin       | 2011 | Harmonic Analysis    |                      Member, IAS | UIUC                 |
 | [[http://www.math.ucla.edu/~hwgao/][高洪伟]]         | Gao, Hongwei     | 2011 | Partial Differential Equations | Postdoc, UCLA         | UC Irvine            |
 | 贺 琛          | He, Chen         | 2011 | Geometry and Topology |                       | Northeastern University |
 | 李 帅          | Li, Shuai        | 2011 | Functional Analysis  |                       | Institute of Math, China |
@@ -76,8 +76,8 @@
 | [[http://www.mis.mpg.de/jjost/members/ruijun-wu.html][吴瑞军]]         | Wu, Ruijun       | 2011 | Geometric analysis   |                       | Max-Planck-Institut für Mathematik in den Naturwissenschaften |
 | 夏秉禹         | Xia, Bingyu      | 2011 | Algebraic Geometry   |                       | Ohio State University |
 | 谢 羿          | Xie, Yi          | 2011 | Geometry and Topology | Postdoc, Simons Center for Geometry and Physics, Stony Brook University | Harvard University   |
-| 徐霄乾         | Xu, Xiaoqian     | 2011 | PDE                  | Postdoc, Carnegie Mellon University | University of Wisconsin-Madison |
-| [[https://zerotal.github.io/][张鼎新]]         | Zhang, Dingxin   | 2011 | Algebraic Geometry   |                       | Stony Brook University |
+| [[http://www.math.cmu.edu/~xxu/][徐霄乾]]   | Xu, Xiaoqian     | 2011 | PDE                  | Postdoc, Carnegie Mellon University | University of Wisconsin-Madison |
+| [[https://zerotal.github.io/][张鼎新]]         | Zhang, Dingxin   | 2011 | Number theory | Postdoc, Brandeis Univeristy	                      | Stony Brook University |
 | [[http://www.math.rutgers.edu/~zz108/][张卓晖]]         | Zhang, Zhuohui   | 2011 | Representation Theory |                       | Rutgers University   |
 | 龙 洋          | Long, Yang       | 2011 | PDE                  |                       | Institute of Math, China |
 | 程 功          | Cheng, Gong      | 2012 | Noncommutative Geometry |                       | Washington University in St. Louis |
@@ -107,4 +107,6 @@
 | 罗之麟         | Luo, Zhilin      | 2015 | Number Theory        |                       | University of Minnesota |
 | 陈俊杰         | Chen, Junjie     | 2015 | Arithmetic Geometry  |                       | Ohio State University |
 | 林中一攀       | Lin, Zhongyipan  | 2016 | Number Theory        |                       | Johns Hopkins University |
+|牛启鑫	        |Niu, Qixin	      |2017	|Mathematics and Finance		|                  | Imperial London College|
+|	杨杰|	Yang, Jie|	2017 |	Number Theory	| |	Chinese Academy of science
 |----------------+------------------+-----+----------------------+-----------------------+----------------------|
