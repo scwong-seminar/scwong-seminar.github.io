@@ -2,10 +2,10 @@
 #+OPTIONS: toc:nil ':t html-postamble:nil tags:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="table.css" />
 
+|                |                  | <3> | <20>                 | <20>                 | <20>                 |
  
 
 |----------------+------------------+-----+----------------------+-----------------------+----------------------|
-|                |                  | <3> | <20>                 | <20>                  | <20>                 |
 | Name (Chinese) |   Name           | Year | Research Area        | Current Position      | Graduate School      |
 |----------------+------------------+-----+----------------------+-----------------------+----------------------|
 | [[http://math.hnu.cn/index.php?option=com%255C_teachers&type=1&teacher%255C_id=116][柴劲松]]         | Chai, Jinsong    | 2004 | Number Theory        | Assistant Professor, Hunan University | Ohio State University |
@@ -15,7 +15,7 @@
 | [[http://www.mcm.ac.cn/faculty/yangxiaokui/201509/t20150909_307008.html][杨晓奎]]         | Yang, Xiaokui    | 2004 | Differential Geometry | Professor, Chinese Academy of Science | UCLA                 |
 | [[https://www.linkedin.com/in/xiaotian-zhu-b706b723][朱笑天]]         | Zhu, Xiaotian    | 2004 | Statistics           | AbbVie                | Penn State University |
 | [[http://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Ding_Yichuan][丁弋川]]         | Ding, Yichuan    | 2005 | Operational Research | Assistant Professor, Sauder School of Business, UBC | Stanford             |
-| [[http://121.192.180.131:808/display.aspx?tid=86][石荣刚]]         | Shi, Ronggang    | 2005 | Dynamical System     | Associate Professor, Xiamen University | Ohin State University |
+| [[http://121.192.180.131:808/display.aspx?tid=86][石荣刚]]         | Shi, Ronggang    | 2005 | Dynamical System     |Shanghai Center for Mathematical Sciences | Ohin State University |
 | [[http://ymsc.tsinghua.edu.cn/shsun/index.html][孙晟昊]]         | Sun, Shenghao    | 2005 | Algebraic Geometry   | Associate Professor, YMSC Tsinghua University | UC Berkeley          |
 | [[https://math.stu.edu.cn/RYZC_Detail.aspx?id=117][邬恩信]]         | Wu, Enxin        | 2005 | Geometry and Topology | Associate Professor, Shantou University | University of Western Ontario |
 | [[http://www.utica.edu/faculty_staff/xixiao/][萧潇]]           | Xiao, Xiao       | 2005 | Number Theory        | Associate Professor, Utica College | Binghamton University |
@@ -33,7 +33,7 @@
 | [[https://sites.google.com/site/zhixianmath/][朱智贤]]         | Zhu, Zhixian     | 2006 | Algebraic Geometry   | Postdoc, KU Leuven    | University of Michigan |
 | 毕树超         | Bi, Shuchao      | 2007 | Algebraic Geometry   | Google                | UC Berkeley          |
 | [[https://www.linkedin.com/in/dechangchen][陈德长]]         | Chen, Dechang    | 2007 | Differential Geometry | BlackRock             | UMass Amherst        |
-| [[https://math.osu.edu/people/chen.1338][陈豪杰]]         | Chen, Haojie     | 2007 | Geometry and Topology | Postdoc, Ohio State University | UMN                  |
+| [[https://math.osu.edu/people/chen.1338][陈豪杰]]         | Chen, Haojie     | 2007 | Differential geometry | Postdoc, Ohio State University | UMN                  |
 | [[https://www.linkedin.com/in/weiden][邓 威]]          | Deng, Wei        | 2007 | Algebraic Geometry   | Criteo                | Washingtong University in St. Louis |
 | [[https://sites.google.com/site/yhuangmath/][黄 杨]]          | Huang, Yang      | 2007 | Geometry and Topology | Postdoc, Aarhus University | USC                  |
 | [[http://nali.seas.harvard.edu/][黎 娜]]          | Li, Na           | 2007 | Control and Dynamical Systems | Assistant Professor, Harvard University | Caltech              |
@@ -57,7 +57,7 @@
 | [[http://www.math.columbia.edu/~xiajie/][夏 劼]]          | Xia, Jie         | 2009 | Algebraic Geometry   | Quant, Morgan Stanley | Columbia University  |
 | [[https://www.math.upenn.edu/~xle/][萧乐超]]         | Xiao, Lechao     | 2009 | Harmonic Analysis    | Hans Rademacher Instructor,  University of Pennsylvania | UIUC                 |
 | [[http://fds.duke.edu/db/aas/math/grad/hangjun][徐杭军]]         | Xu, Hangjun      | 2009 | Differential Geometry | Senior Software Engineer, Oracle Corporation | Duke                 |
-| [[http://people.math.umass.edu/~yaping][杨亚萍]]         | Yang, Yaping     | 2009 | Representation Theory | Postdoc, UMass Amherst | Northeastern University |
+| [[https://sites.google.com/site/yapingyanghomepage/][杨亚萍]]         | Yang, Yaping     | 2009 | Representation Theory |  Lecturer, University of Melbourne	 | Northeastern University |
 | 张晶晶         | Zhang, Jingjing  | 2009 | Algebraic Geometry   |                       | Johns Hopkins University |
 | [[http://www.math.tamu.edu/people/formalpg.php?user=zzhang][张 正]]          | Zhang, Zheng     | 2009 | Algebraic Geometry   | Postdoc, TAMU         | Stony Brook University |
 | [[http://people.math.umass.edu/~zhao][赵顾舫]]         | Zhao, Gufang     | 2009 | Representation Theory | Postdoc, UMass Amherst | Northeastern University |
@@ -81,16 +81,16 @@
 | [[http://www.math.rutgers.edu/~zz108/][张卓晖]]         | Zhang, Zhuohui   | 2011 | Representation Theory |                       | Rutgers University   |
 | 龙 洋          | Long, Yang       | 2011 | PDE                  |                       | Institute of Math, China |
 | 程 功          | Cheng, Gong      | 2012 | Noncommutative Geometry |                       | Washington University in St. Louis |
-| [[http://www.math.utah.edu/~fan][樊宏路]]         | Fan, Honglu      | 2012 | Algebraic Geometry   |                       | University of Utah   |
+| [[http://www.math.utah.edu/~fan][樊宏路]]         | Fan, Honglu      | 2012 | Algebraic Geometry   | Postdoc, ETH Zürich	                      | University of Utah   |
 | 侯 琦          | Hou, Qi          | 2012 | PDE                  |                       | Cornell University   |
 | [[http://www.math.stonybrook.edu/~xuntaohu/][胡迅韬]]         | Hu, Xuntao       | 2012 | Algebraic Geometry   |                       | Stony Brook University |
-| 刘博辰         | Liu, Bochen      | 2012 | Harmonic Analysis    | Research Assistant, Hong Kong Chinese University | Rochester University |
+| 刘博辰         | Liu, Bochen      | 2012 | Harmonic Analysis    |	Postdoc, Bar-Ilan University | Rochester University |
 | 史旭鹏         | Shi, Xupeng      | 2012 | Algebraic Geometry   |                       | Northeastern University |
 | 赵慧君         | Zhao, Huijun     | 2012 | Representation Theory |                       | Northeastern University |
 | 王盛文         | Wang, Shengwen   | 2012 | Geometric Analysis   |                       | Johns Hopkins University |
 | 王溪源         | Wang, Xiyuan     | 2012 | Number Theory        |                       | Johns Hopkins University |
 | 吴 为          | Wu, Wei          | 2012 | Logic                |                       | Cornell University   |
-| 谢 斐          | Xie, Fei         | 2012 | Algebraic Geometry   |                       | UCLA                 |
+| [[https://sites.google.com/site/feixiemath][谢 斐]]             | Xie, Fei         | 2012 | Algebraic Geometry   |Postdoc, Universität Bielefeld	                       | UCLA                 |
 | 许 超          | Xu, Chao         | 2012 | Geometry and Topology |                       | Ohio State University |
 | [[http://www.math.fsu.edu/~xzhang/][张希平]]         | Zhang, Xiping    | 2012 | Algebraic Geometry   |                       | Florida State University |
 | 祝耀光         | Zhu, Yaoguang    | 2012 | Algebra              |                       | University of Texas at Austin |
