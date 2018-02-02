@@ -16,7 +16,7 @@
 | [[https://www.linkedin.com/in/xiaotian-zhu-b706b723][朱笑天]]         | Zhu, Xiaotian    | 2004 | Statistics           | AbbVie                | Penn State University |
 | [[http://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Ding_Yichuan][丁弋川]]         | Ding, Yichuan    | 2005 | Operational Research | Assistant Professor, Sauder School of Business, UBC | Stanford             |
 | [[http://121.192.180.131:808/display.aspx?tid=86][石荣刚]]         | Shi, Ronggang    | 2005 | Dynamical System     |Shanghai Center for Mathematical Sciences | Ohin State University |
-| [[http://ymsc.tsinghua.edu.cn/shsun/index.html][孙晟昊]]         | Sun, Shenghao    | 2005 | Algebraic Geometry   | Associate Professor, YMSC Tsinghua University | UC Berkeley          |
+| [[http://ymsc.tsinghua.edu.cn/shsun/index.html][孙晟昊]]         | Sun, Shenghao    | 2005 | Algebraic Geometry   | Associate Professor, Tsinghua University  | UC Berkeley          |
 | [[https://math.stu.edu.cn/RYZC_Detail.aspx?id=117][邬恩信]]         | Wu, Enxin        | 2005 | Geometry and Topology | Associate Professor, Shantou University | University of Western Ontario |
 | [[http://www.utica.edu/faculty_staff/xixiao/][萧潇]]           | Xiao, Xiao       | 2005 | Number Theory        | Associate Professor, Utica College | Binghamton University |
 | [[http://www.math.tamu.edu/~xie/][谢知章]]         | Xie, Zhizhang    | 2005 | Noncommutative Geometry | Assistant Professor, TAMU | Ohio State University |
@@ -44,7 +44,7 @@
 | [[https://www.linkedin.com/in/yifan-%2522ethan%2522-xu-9796315][徐轶帆]]         | Xu, Yifan        | 2007 | Statistics           | IBM                   | Binghamton University |
 | [[https://www.linkedin.com/in/cris-xiaochen-zhou-57300a40][周晓晨]]         | Zhou, Xiaochen   | 2007 | Differential Geometry | Software Engineer, Google         | U Penn               |
 | [[https://sites.google.com/site/yizhuhomepage/][朱 一]]          | Zhu, Yi          | 2007 | Algebraic Geometry   |PNC | Stony Brook University |
-| [[https://sites.google.com/site/xuanyupan1985/][潘宣余]]         | Pan, Xuanyu      | 2008 | Algebraic Geometry   | Postdoc, Max Plank Institute | Columbia University  |
+| [[https://sites.google.com/site/xuanyupan1985/][潘宣余]]         | Pan, Xuanyu      | 2008 | Algebraic Geometry   | Associate Professor, Chinese Academy of Science | Columbia University  |
 | [[https://sites.google.com/site/wangqymath/][王青云]]         | Wang, Qingyun    | 2008 | Operator Algebra     | Postdoc, University of Oregon | Washington University in St. Louis |
 | [[http://mathdept.ucr.edu/faculty/lihanw.html][王丽涵]]         | Wang, Lihan      | 2008 | Differential Geometry | Visiting Assistant Professor, UC Riverside | UC Irvin             |
 | [[https://people.math.osu.edu/zhang.1649/homepage.html][张 庆]]          | Zhang, Qing      | 2008 | Number Theory        | Postdoc, Ohio State University | Ohio State University |
@@ -62,7 +62,7 @@
 | [[http://www.math.tamu.edu/people/formalpg.php?user=zzhang][张 正]]          | Zhang, Zheng     | 2009 | Algebraic Geometry   | Postdoc, TAMU         | Stony Brook University |
 | [[http://people.math.umass.edu/~zhao][赵顾舫]]         | Zhao, Gufang     | 2009 | Representation Theory | Postdoc, UMass Amherst | Northeastern University |
 | [[http://hnsdfz.999xxw.com/newsshow.php?cid=28&id=55][程永兴]]         | Cheng, Yongxing  | 2010 |                      | Teacher, 湖南师大附中国际部 | Northeastern University |
-| 林胤榜         | Lin, Yinbang     | 2010 | Algebraic Geometry   | Postdoc, Tsinghua     | Northeastern University |
+| 林胤榜         | Lin, Yinbang     | 2010 | Algebraic Geometry   | Postdoc, YMSC, Tsinghua University | Northeastern University |
 | [[https://nl.linkedin.com/in/tongwang1][王 曈]]          | Wang, Tong       | 2010 | Logic                | Google                | University of Amsterdam |
 | 薛 珂          | Xue, Ke          | 2010 | Algebraic Geometry   |                       | University of Maryland College Park |
 | 叶之林         | Ye, Zhilin       | 2010 | Number Theory        |                       | Ohio State University |
@@ -70,11 +70,11 @@
 | [[https://sites.google.com/site/dongdongmath/][董 栋]]          | Dong, Dong       | 2011 |Harmonic Analysis and Number theory    |                       | Michigan State University; UIUC |
 | [[https://sites.google.com/site/xiumindu/][杜秀敏]]         | Du, Xiumin       | 2011 | Harmonic Analysis    |                      Member, IAS | UIUC                 |
 | [[http://www.math.ucla.edu/~hwgao/][高洪伟]]         | Gao, Hongwei     | 2011 | Partial Differential Equations | Postdoc, UCLA         | UC Irvine            |
-| 贺 琛          | He, Chen         | 2011 | Geometry and Topology |                       | Northeastern University |
+| 贺 琛          | He, Chen         | 2011 | Geometry and Topology | Postdoc, YMSC, Tsinghua University | Northeastern University |
 | 李 帅          | Li, Shuai        | 2011 | Functional Analysis  |                       | Institute of Math, China |
 | [[https://math.osu.edu/people/wang.3003][王亦龙]]         | Wang, Yilong     | 2011 | Geometry and Topology |                       | The Ohio State University |
 | [[http://www.mis.mpg.de/jjost/members/ruijun-wu.html][吴瑞军]]         | Wu, Ruijun       | 2011 | Geometric analysis   |                       | Max-Planck-Institut für Mathematik in den Naturwissenschaften |
-| 夏秉禹         | Xia, Bingyu      | 2011 | Algebraic Geometry   |                       | Ohio State University |
+| 夏秉禹         | Xia, Bingyu      | 2011 | Algebraic Geometry   | Postdoc, Max-Planck Institute | Ohio State University |
 | 谢 羿          | Xie, Yi          | 2011 | Geometry and Topology | Postdoc, Simons Center for Geometry and Physics, Stony Brook University | Harvard University   |
 | [[http://www.math.cmu.edu/~xxu/][徐霄乾]]   | Xu, Xiaoqian     | 2011 | PDE                  | Postdoc, Carnegie Mellon University | University of Wisconsin-Madison |
 | [[https://zerotal.github.io/][张鼎新]]         | Zhang, Dingxin   | 2011 | Number theory | Postdoc, Brandeis Univeristy	                      | Stony Brook University |
@@ -107,6 +107,10 @@
 | 罗之麟         | Luo, Zhilin      | 2015 | Number Theory        |                       | University of Minnesota |
 | 陈俊杰         | Chen, Junjie     | 2015 | Arithmetic Geometry  |                       | Ohio State University |
 | 林中一攀       | Lin, Zhongyipan  | 2016 | Number Theory        |                       | Johns Hopkins University |
-|牛启鑫	        |Niu, Qixin	      |2017	|Mathematics and Finance		|                  | Imperial London College|
-|	杨杰|	Yang, Jie|	2017 |	Number Theory	| |	Chinese Academy of science
+| 牛启鑫	       | Niu, Qixin	     |2017	|Mathematics and Finance		|                  | Imperial London College|
+|王军啸    | 	 Wang, Junxiao	 |     2016 | 	Geometry and Topology |   | 		Northwestern University	 |
+| 宋础良	 | Song, Chuliang     | 	2016	 | Applied Math		        |   | MIT                           |
+|	杨杰 |	Yang, Jie|	2017 |	Number Theory	| |	Chinese Academy of science|
+| 叶晗轩	| Ye, Hanxuan |	2017	|statistics|		|RUC / Texas A&M|
+| 陈恩献 |	Chen, Enxian	|2016	|Number Theory|		|NUS|
 |----------------+------------------+-----+----------------------+-----------------------+----------------------|
