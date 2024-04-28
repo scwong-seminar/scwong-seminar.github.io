@@ -2,7 +2,7 @@
 #+OPTIONS: toc:nil ':t html-postamble:nil tags:nil num:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../minimal.css" />
 
-文／夏颉
+文／夏劼
 
 05年9月，杭州酷暑，我拖着行李走进紫金港。
 

@@ -2,7 +2,7 @@
 #+OPTIONS: toc:nil ':t html-postamble:nil tags:nil num:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../minimal.css" />
 
-文／[[https://sites.google.com/site/xuanyupan1985/][潘宣余]]
+文／潘宣余
 
 离开浙大快十年了，还有2个星期就要见到黄老师了。今天在夏颉的微信中看到他写的一篇纪念黄老师的文章，有感而发。
 
