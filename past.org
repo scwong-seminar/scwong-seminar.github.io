@@ -2,9 +2,7 @@
 #+OPTIONS: toc:nil ':t html-postamble:nil tags:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="table.css" />
 
-|                |                  | <3> | <20>                 | <20>                 | <20>                 |
-
-
+|                |                  |  <3> | <20>                                | <20>                                                                             | <20>                                                                  |
 |----------------+------------------+------+-------------------------------------+----------------------------------------------------------------------------------+-----------------------------------------------------------------------|
 | Name (Chinese) |   Name           | Year | Research Area                       | Current Position                                                                 | Graduate School                                                       |
 |----------------+------------------+------+-------------------------------------+----------------------------------------------------------------------------------+-----------------------------------------------------------------------|
@@ -37,7 +35,7 @@
 | [[https://www.linkedin.com/in/weiden][邓 威]]           | Deng, Wei        | 2007 | Algebraic Geometry                  | Criteo                                                                           | Washingtong University in St. Louis                                   |
 | [[https://sites.google.com/site/yhuangmath/][黄 杨]]           | Huang, Yang      | 2007 | Geometry and Topology               |                                                                                  | University of South California                                        |
 | [[http://nali.seas.harvard.edu/][黎 娜]]           | Li, Na           | 2007 | Control and Dynamical Systems       | Winokur Family Professor, Harvard University                                     | Caltech                                                               |
-| [[https://sites.google.com/site/haoliang1120/][梁 灏]]           | Liang, Hao       | 2007 | Geometric Group Theory              | Postdoc, Tufts University                                                        | UIC                                                                   |
+| 梁 灏           | Liang, Hao       | 2007 | Geometric Group Theory              | Professor, Foshan University                                                     | UIC                                                                   |
 | [[http://sourcedb.amss.cas.cn/zw/zjrck/zlyjy/201511/t20151103_4452757.html][聂思安]]          | Nie, Sian        | 2007 | Representation Theory               | Professor, Chinese Academy of Science                                            | Institute of Math, China                                              |
 | [[http://voidstar.info/][彭 巍]]           | Peng, Wei        | 2007 | Computer Networks and Security      |                                                                                  | IUPUI                                                                 |
 | 孙京洲          | Sun, Jungzhou    | 2007 | Complex Geometry                    | Associate Professor, Shantou University                                          | Johns Hopkins University                                              |
@@ -102,7 +100,7 @@
 | 叶荣庆          | Ye, Rongqing     | 2013 | Representation Theory               |                                                                                  | Ohio State University                                                 |
 | [[https://scms.fudan.edu.cn/info/2675/4994.htm][周 杨]]           | Zhou, Yang       | 2013 | Algebraic Geometry                  | Assistant Professor, Shanghai Center for Mathematical Sciences                   | Stanford University                                                   |
 | 王 俊           | Wang, Jun        | 2014 | Algebraic Geometry                  |                                                                                  | The Ohio State University                                             |
-| [[https://math.xmu.edu.cn/en/info/1077/1931.htm][吕人杰]]          | Lü, Renjie       | 2014 | Algebraic Geometry                  | Assistant Professor, Xiamen University                                          | University of Amsterdam                                               |
+| [[https://math.xmu.edu.cn/en/info/1077/1931.htm][吕人杰]]          | Lü, Renjie       | 2014 | Algebraic Geometry                  | Assistant Professor, Xiamen University                                           | University of Amsterdam                                               |
 | [[http://shizhang.li/][李时璋]]          | Li, Shizhang     | 2014 | Algebraic Geometry                  | Associate Researcher, AMSS, Chinese Academy of Sciences                          | Columbia University                                                   |
 | [[https://sites.google.com/umn.edu/zhilinluo/home][罗之麟]]          | Luo, Zhilin      | 2015 | Number Theory                       | Dickson Instructor, UChicago                                                     | University of Minnesota                                               |
 | 陈俊杰          | Chen, Junjie     | 2015 | Arithmetic Geometry                 |                                                                                  | The Ohio State University                                             |
