@@ -2,7 +2,10 @@
 #+OPTIONS:  ':t html-postamble:nil tags:nil num:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="minimal.css" />
 
+* 洪久族: 纪念黄老师
+#+include: ./moments/jiuzu.org :only-contents t :lines "5-10"
 
+[[file:moments/jiuzu.org][...Read More...]]
 
 * 杨毅: 纪念黄老师
 #+include: ./moments/yangyi.org :only-contents t :lines "5-10"
