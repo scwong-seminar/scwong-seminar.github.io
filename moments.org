@@ -1,9 +1,13 @@
 #+title: Moments
-#+OPTIONS: toc:nil ':t html-postamble:nil tags:nil num:nil
+#+OPTIONS:  ':t html-postamble:nil tags:nil num:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="minimal.css" />
 
- 
 
+
+* 杨毅: 纪念黄老师
+#+include: ./moments/yangyi.org :only-contents t :lines "5-10"
+
+[[file:moments/yangyi.org][...Read More...]]
 
 * 黄兆镇 ------ 一个理想主义者的死缓
 
