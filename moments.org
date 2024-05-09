@@ -2,6 +2,10 @@
 #+OPTIONS:  ':t html-postamble:nil tags:nil num:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="minimal.css" />
 
+* 杨亚萍: 纪念黄老师
+#+include: ./moments/yaping.org :only-contents t :lines "5-10"
+
+[[file:moments/yaping.org][...Read More...]]
 * 洪久族: 纪念黄老师
 #+include: ./moments/jiuzu.org :only-contents t :lines "5-10"
 
@@ -18,13 +22,11 @@
 
 [[file:moments/wang-tong.org][...Read More...]]
 
-
 * 记黄老师
 
 #+include: ./moments/xia-jie.org :only-contents t :lines "5-14"
 
 [[file:moments/xia-jie.org][...Read More...]]
-
 
 * 老黄
 
@@ -32,13 +34,11 @@
 
 [[file:moments/panxuanyu.org][...Read More...]]
 
-
 * 心中永远的坐标 --- 黄兆镇
 
 #+include: ./moments/liuwei.org :only-contents t :lines "6-16"
 
 [[file:moments/liuwei.org][...Read More...]]
-
 
 * 老黄其人 --- 记我的微积分老师黄兆镇教授雷语雷事
 
