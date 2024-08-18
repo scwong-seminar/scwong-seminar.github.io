@@ -2,6 +2,13 @@
 #+OPTIONS:  ':t html-postamble:nil tags:nil num:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="minimal.css" />
 
+* 王青云: 忆老黄
+#+include: ./moments/qingyun.org :only-contents t :lines "5-10"
+
+[[file:moments/qingyun.org][...Read More...]]
+
+
+
 * 杨亚萍: 纪念黄老师
 #+include: ./moments/yaping.org :only-contents t :lines "5-10"
 

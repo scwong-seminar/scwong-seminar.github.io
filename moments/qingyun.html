@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2024-08-19 Mon 03:16 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>忆老黄</title>
+<meta name="author" content="Dingxin Zhang" />
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+<link rel="stylesheet" type="text/css" href="../minimal.css" />
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">忆老黄</h1>
+<p>
+文／王青云
+</p>
+
+<p>
+初见老黄，是在竺可桢学院导师见面会上。当时我还只是个刚入大学校园，懵懂无知的毛头小子。正被前面几个导师精美复杂的PPT以及充满高大上名词的宣讲整得昏昏欲睡时，突然走进来一个大叔(伯?), 带着墨镜, 穿着拖鞋短裤, 背一个大书包. 这与众不同的气质一下子就击中了我幼小的心灵，让我瞬间惊醒。他边说边在黑板上写下了自己的名字&#x2014;黄兆镇, 带着一口浓重的广东口音，说话却不怒自威。已经记不得他具体讲了什么，只记得最后总结时说，他只接收真正对纯数学感兴趣的学生。我一下子来了精神，这说的不就是我吗？于是命运的齿轮开始转动，我也有幸成了所谓的黄门弟子。
+</p>
+
+<p>
+我来自一个祖上三代都是贫下中农的家庭，从小性格自卑内向，喜欢沉浸在自己的世界里。起源于童年的一些机缘巧合，我很早就喜欢上了数学。小学和初中都搞过点数学竞赛，虽然最好的成绩也就是本县三等奖，却不妨碍大学专业毅然选择了数学。
+</p>
+
+<p>
+然而刚开始学大学数学的时候感觉有点吃力，总觉得那些教材写得过于艰深，不好理解。老黄带给我的第一个重大影响就是教会了我教材的重要性。他说百分之九十九的中文教材都是垃圾，然后给我推荐了一些英文书。我当时英语很差，心里还嘀咕, 中文的都看不懂, 还能看英文的吗？没想道我的高中英语真的就足以应付这些英文教材了。后来才知道，这些都是老黄精心挑选的经典著作, 用的是面向读者的写法,  循序渐进, 深入浅出, 但又不拖泥带水, 看得真的很过瘾。
+</p>
+
+<p>
+老黄在课程安排上下了很多功夫，也因此跟系里其他一些老师起过严重的冲突。大二的时候就开设了点集拓扑，抽象代数这样的课，好像还是竺院学生的必修课。这些课的内容都是现代理论数学的基础。听老黄说过，有个古典分析方向的大佬，说他做了一辈子研究都没用到过点集拓扑，不知道教这玩意有什么用。还有好多应用数学的老师，就更不理解这么多理论课有什么必要。老黄的观点是, 一流的应用数学家也至少应该是二流的理论数学家。还记得我浙那些年提出的口号是要建设世界一流大学，我想老黄是当真了。
+</p>
+
+<p>
+老黄上课是出了名的严格。上课迟到一分钟就要被轰出教室，作业晚交了就直接退回, 发现作业作弊直接平时分清零。我其实平常是一个非常懒散的人，在大学里属于混日子型的，但是老黄的课从来没有怠慢过。一是因为老黄是我签了合约的导师，不敢放肆; 二是他上课极其用心, 真的可以让我全神贯注听完一整节课。他从不用PPT, 也几乎不用看稿, 板书写得非常工整大气, 时不时还有一些小巧的设计。他的课的作业应该比其他课都要多, 但也真的是每一份交上去的作业都有认真批注。后来忙不过来找了一些助教帮忙批作业。有一次还作业给我的时候还跟我指出了助教批改的疏漏，其认真可见一斑。
+</p>
+
+<p>
+当然老黄最有名的就是他的讨论班。一些水平相近，对同一课题感兴趣的学生, 由老黄帮忙挑选教材, 分成章节，然后所有同学轮流做报告把教材的内容讲给别人听。老黄主要负责在一旁指点。讨论班的形式也很自由，如果有人没听懂的话可以一直问问题问到讲课的人说明白为止; 或者听众里觉得有更好的讲法或者相关的内容也可以随时补充，甚至上台替原讲课者讲一小段。要在短时间内自学新的内容, 还要理解到可以给别人讲课的地步, 还是有不小的压力的。不过这样的学习也是最有效率的, 有一些费曼学习法的味道。后来也明白了一些老黄有意培养我们讲课能力的用心。最开始是老黄自己带所有的讨论班，后来人多了, 加上高年级的学长学姐被训练出来了, 就有一些低年级的讨论班交给学长学姐带，而高年级的同学已经可以讨论研究生的课题了。讨论班不是官方活动, 老黄免不了要和学校就教室使用权之类的问题打打架, 且按去不表。经费方面也是自掏腰包。老黄知道我家境不好, 我的教材几乎都是他免费送的。后来当过一个低年级讨论班的助教, 还给我发了2000块的工资。现在回想起来，讨论班的日子就是我大学最开心幸福的时光。有出于对数学的喜爱, 还有那种可以和一群志同道合的朋友共同奋斗的感觉, 更重要的是有老黄一直“罩着”,  真正是无忧无虑。
+</p>
+
+
+<p>
+到了大三的时候，老黄来找我谈毕业后的规划。现在脑海里还有当时在紫金港西区的一个小花坛附近聊了足足一上午的画面。我其实只是喜欢“学”数学, 并没有觉得自己有什么数学研究的能力。我的同班同学潘宣余，当年和哥伦比亚大学来访问的张寿武教授谈笑风生, 直接被特招了过去做博士。还有一些学长学姐，本科毕业论文就已经可以在不错的期刊上发表。总觉得数学研究是属于这些天子骄子的事情，我想的是毕业了就去找个厂打点轻松点的够养活自己的工，剩下的时间可以继续学数学。老黄问我有没有想过出国留学。看出了我的犹豫，他跟我说出国读博有奖学金，比在国内打工挣的钱多，还能全职学数学。我眼前一亮，随即又暗了下来，我周围想出国的同学都是大一就开始规划，带着各种宝书去新东方学 GRE 和各种刷学分绩点的, 我一个四级都是踩着及格线过的人，能行吗？老黄说这个不用担心，数学博士不看 GRE (general), 有分数就行，你去把 GRE sub (针对数学的专项考试) 考到前5%就行了。我最后提出了对自己研究能力的担忧，问老黄如果将来做不了一流的数学，还应该在职业数学这条道路上坚持下去吗？老黄说数学总是要有人来传承的, 这句话打消了我最后的疑虑。后来就手把手的教我如何选择学校，写申请书，还让之前已经出国的学长帮我推荐, 就这样最终拿到了洗大 (Washington University in St. Louis, 简称Wash U) 的 offer.
+</p>
+
+<p>
+老黄说，数学家有两种，一种是逢山开路，遇水造桥, 靠各种锋利的武器攻破一个个的难题。另一种是大巧不工，重剑无锋，从更本质的角度来统一解决一大类的问题。老黄是偏向第二种的，我想很多老黄的学生都被安利过讲 Grothendieck 的那篇文章 The rising sea, 那种通过提高海平面来将一座座数学高峰逐渐淹没的数学观确实让人感到震撼。被老黄的数学审美深深影响, 而我做起研究来的时候, 却发现自己的能力只够在一些边角料上敲敲打打, 这种巨大的反差开始一点点动摇我在数学道路上的信心。另一方面，失去了讨论班的那种氛围，也在不知不觉中淡化了我对数学的热情。我本来就是一个内向，被动又懒散的人，对未来也没有任何规划，就开始在洗大混起了日子。那时候想和老黄打电话，却又有些不敢，总觉得自己辜负了他的期望，虽然他也从来没说过对我有什么期望。有一次终于鼓起了勇气给他打了一个电话，也许是他觉察到了什么，我们竟然没有聊任何数学相关的话题。他只是关心着我的生活状况，还叮嘱我一定要坚持锻炼身体。我说我最近经常帮别人搬家，他笑笑说那可不算。
+</p>
+
+<p>
+后来趁着回国开会的机会见过一两次老黄, 再后来就再也没有联系了。因为老黄那句: ’数学总是要有人传承的’, 也因为觉得自己除了数学一无所长, 我在学术圈苟延残喘，坚持做了7年的博士后。最终因为新冠疫情找不到合适的工作而被迫转行，至今也有三四年了。再听到老黄消息的时候，竟是前不久老黄离世，一时间百感交集，恍如隔世。
+</p>
+
+<p>
+转行之前我对数学之外的事情都不太关心，也从没有主动八卦过老黄的过往。只知道他把所有的精力都投入到教学和讨论班里面，真正到了废寝忘食的地步。后来看了一些别的学生写的回忆录，才对老黄多了一些了解。得知老黄离世后，我又把网上所有关于他的文章重新读了一遍。原来老黄也是个丰富多彩的人，年轻的时候走南闯北，在德国学过哲学，又转行到加拿大做了数学的博士后。当年本来想去西藏之类的最落后的地方支教，后来被朋友劝住来了浙大。有人说他是富二代，也有人说他其实跟家里关系一般，又对赚钱没有任何兴趣，所以一直过得很清贫。突然间唏嘘不已，老黄活得越来越纯粹，而我却越来越杂念丛生，闲来时哲学技术以及其它五花八门的东西都想去看看。如果老黄还在的话，真希望能回到紫金港西区的那个小花坛，好好聊一聊这么多年各自的变化; 亦或是约上些师兄弟姐妹，去讨论班教学楼后面的某个小馆陪他小酌几杯。
+</p>
+
+<p>
+其实之前我从来没有叫过他老黄，都是叫黄老师。后来为方便和师兄弟姐妹交流才在背后叫他老黄。师者，传道授业解惑也，我想黄老师践行了为人师者的最高准则。传的什么道？我看到的有来自亚里士多德的真理不辩不明的态度，有坚持内心原则、不向世俗妥协的勇气，也有对普罗大众的深刻同情。一个理想主义者死了，他化身为道又活在了很多人心中。也许这辈子我都无法成为像老黄那样厉害的老师, 但也希望能保存住自己心中的那点理想主义, 有机会的时候将他的道传承下去。
+</p>
+</div>
+</body>
+</html>
