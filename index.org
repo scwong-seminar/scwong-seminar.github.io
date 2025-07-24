@@ -16,9 +16,9 @@
 [[file:moments.org][Moments]]  \bullet  [[file:past.org][Graduates]]  \bullet [[file:old/index.html][Archive]]  \bullet  [[file:photos.org][About Wong]]
 
 Beginning in the early 2000s, Professor Shiu-Chun Wong (August 29,
-1949 --- April 15, 2024) organized several reading seminars on
-mathematics for undergraduate students at Zhejiang University.  Many
-students benefited from these seminars. However, since Prof. Wong's
-retirement in 2014, the seminars have ceased.  This website contains
-syllabi from these seminars, as well as contact information for
-students who participated.
+1949 --- April 15, 2024) organized a series of mathematics reading
+seminars for undergraduate students at Zhejiang University. These
+seminars were highly beneficial for many students. After Prof. Wong's
+retirement in 2014, the seminars were discontinued. This website
+preserves the syllabi from those seminars and includes contact
+information for the participating students.
